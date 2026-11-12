@@ -21,7 +21,7 @@ SprintIQ/
 │   └── ai-service/          # Mahak Bansal: Python/FastAPI and LLM prompts
 ├── docs/
 │   ├── API_CONTRACTS.md
-│   ├── DATABASE_SCHEMA.md
+│   ├── DATABASE_SCHEMA.md   # Nandini Kaushik : Database, Mongoose
 │   ├── GIT_WORKFLOW.md
 │   └── OWNERSHIP.md
 ├── .github/workflows/       # Mahak Goyal: CI checks
